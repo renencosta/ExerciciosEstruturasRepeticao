@@ -12,3 +12,4 @@ C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosEstruturasRepeticao\obj\
 C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosEstruturasRepeticao\obj\Debug\net9.0\ExerciciosEstruturasRepeticao.pdb
 C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosEstruturasRepeticao\obj\Debug\net9.0\ExerciciosEstruturasRepeticao.genruntimeconfig.cache
 C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosEstruturasRepeticao\obj\Debug\net9.0\ref\ExerciciosEstruturasRepeticao.dll
+C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosEstruturasRepeticao\obj\Debug\net9.0\ExerciciosEstruturasRepeticao.sourcelink.json
